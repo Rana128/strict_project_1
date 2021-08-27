@@ -1,0 +1,1 @@
+# strict_project_1
